@@ -1,0 +1,108 @@
+pennsylvania C2 2012
+georgia  2012
+kentucky  2013
+kentucky C 2013
+kentucky C2 2013
+mississippi C 2013
+mississippi C2 2013
+nebraska  2013
+nebraska C2 2013
+ohio  2013
+ohio C 2013
+ohio C2 2013
+pennsylvania  2013
+tennessee  2013
+tennessee C 2013
+tennessee C2 2013
+texas  2013
+wisconsin  2013
+oklahoma  2013
+oklahoma C 2013
+oklahoma C2 2013
+iowa C 2014
+iowa C2 2014
+kansas  2014
+kansas C 2014
+kansas C2 2014
+kentucky  2014
+kentucky C 2014
+kentucky C2 2014
+louisiana  2014
+nebraska C2 2014
+ohio  2014
+ohio C 2014
+texas  2015
+texas C 2015
+texas C2 2015
+wisconsin  2015
+florida  2015
+florida C 2015
+georgia  2015
+georgia C 2015
+georgia C2 2015
+arkansas  2015
+arkansas C 2015
+arkansas C2 2015
+nebraska  2016
+nebraska C 2016
+nebraska C2 2016
+ohio C2 2016
+wisconsin C 2016
+florida  2016
+florida C 2016
+florida C2 2016
+alabama C 2017
+alabama C2 2017
+iowa C 2018
+iowa C2 2018
+kansas C 2018
+kansas C2 2018
+kentucky  2018
+kentucky C 2018
+kentucky C2 2018
+louisiana  2018
+louisiana C 2018
+louisiana C2 2018
+mississippi C2 2018
+missouri C2 2018
+ohio C 2018
+ohio C2 2018
+pennsylvania  2018
+pennsylvania C 2018
+arkansas  2018
+arkansas C 2018
+arkansas C2 2018
+mississippi C2 2020
+tennessee  2020
+tennessee C 2020
+tennessee C2 2020
+illinois C 2021
+illinois C2 2021
+indiana C 2021
+indiana C2 2021
+kansas  2021
+kansas C 2021
+kansas C2 2021
+kentucky  2021
+kentucky C 2021
+kentucky C2 2021
+louisiana  2021
+louisiana C 2021
+louisiana C2 2021
+mississippi  2021
+mississippi C 2021
+mississippi C2 2021
+missouri  2021
+missouri C 2021
+missouri C2 2021
+pennsylvania C 2021
+pennsylvania C2 2021
+tennessee  2021
+tennessee C 2021
+tennessee C2 2021
+texas  2021
+texas C 2021
+texas C2 2021
+wisconsin  2021
+alabama C 2021
+alabama C2 2021
